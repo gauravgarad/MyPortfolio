@@ -240,7 +240,7 @@
             <script>
                 function sendMail() {
                         (function () {
-                            emailjs.init("dpqz6N77kqk8R0-9h"); // Account Public Key 
+                            emailjs.init("ZMftIU4zwjSjXXAff"); // Account Public Key 
                         })();
                         var params = {
                             sendername: document.querySelector("#sendername").value, 
@@ -249,8 +249,8 @@
                             subject: document.querySelector("#subject").value,
                             replyto: document.querySelector("#reply_to").value,
                             message: document.querySelector("#message").value,};
-                            var serviceID = "service_zv9t7mi"; // Email Service ID
-                            var templateID = "template_wry0v7l"; // Email Template ID
+                            var serviceID = "service_n2qdpdd"; // Email Service ID
+                            var templateID = "template_mos01mx"; // Email Template ID
                             
                             emailjs.send(serviceID, templateID, params)
                                 .then(res =>{
