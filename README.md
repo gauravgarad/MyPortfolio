@@ -1,17 +1,16 @@
-# Dr. Yogesh Deshmukh's Portfolio Website
+# Mr. Gaurav Garad's Portfolio Website
 
 ## Introduction
 
-Welcome to Dr. Yogesh Deshmukh's Portfolio Website! This website showcases the skills, projects, study material and experiences of Dr. Yogesh Deshmukh.
+Welcome to Mr. Gaurav Garad's  Portfolio Website! This website showcases the skills, projects, study material and experiences of Mr. Gaurav Garad.
 
-## About Dr. Yogesh Deshmukh
+## About Mr. Gaurav Garad.
 
-Dr. Yogesh Deshmukh is a passionate and dedicated Teacher. 
+Mr. Gaurav Garad is a passionate and dedicated Student. 
 
 ## Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript
-- Bootstrap
+- CSS
+- PYTHON
 - Git
